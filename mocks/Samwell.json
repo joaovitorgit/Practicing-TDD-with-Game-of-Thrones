@@ -1,10 +1,1 @@
-{
-    "id": 1,
-    "firstName": "Samwell",
-    "lastName": "Tarly",
-    "fullName": "Samwell Tarly",
-    "title": "Maester",
-    "family": "House Tarly",
-    "image": "sam.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/sam.jpg"
-  }
+{"id":1,"firstName":"Samwell","lastName":"Tarly","fullName":"Samwell Tarly","title":"Maester","family":"House Tarly","image":"sam.jpg","imageUrl":"https://thronesapi.com/assets/images/sam.jpg"}
